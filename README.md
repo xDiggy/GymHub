@@ -1,2 +1,2 @@
 # GymHub
-A workout tracker mixed with a socisl media app
+A workout tracker mixed with a social media app
