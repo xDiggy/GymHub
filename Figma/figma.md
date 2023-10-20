@@ -9,3 +9,6 @@
 
 ## Profile page:
 ![image](https://github.com/xDiggy/GymHub/assets/85561037/fe9c8a6f-3436-4770-b8bc-a03b1ee46d82)
+
+## Home page:
+![image](https://github.com/xDiggy/GymHub/assets/85561037/d4a9c0bd-82c2-4409-ad19-7f415f9ec8d8)
