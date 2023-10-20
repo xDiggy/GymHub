@@ -3,3 +3,6 @@
 
 ## Login page:
 ![image](https://github.com/xDiggy/GymHub/assets/85561037/fe48c06c-cf70-4a53-b1d8-aea6b5f302fd)
+
+## Register page:
+![image](https://github.com/xDiggy/GymHub/assets/85561037/90fd8349-21e2-4601-984b-9137c9145a7b)
