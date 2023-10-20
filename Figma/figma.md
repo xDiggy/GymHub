@@ -6,3 +6,6 @@
 
 ## Register page:
 ![image](https://github.com/xDiggy/GymHub/assets/85561037/90fd8349-21e2-4601-984b-9137c9145a7b)
+
+## Profile page:
+![image](https://github.com/xDiggy/GymHub/assets/85561037/fe9c8a6f-3436-4770-b8bc-a03b1ee46d82)
