@@ -9,6 +9,10 @@
 
 ## Profile page:
 ![image](https://github.com/xDiggy/GymHub/assets/85561037/fe9c8a6f-3436-4770-b8bc-a03b1ee46d82)
+### Profile swipe:
+![image](https://github.com/xDiggy/GymHub/assets/85561037/b381a2be-3b89-4f72-b854-73b810f9c8f4)
+### Profile view more:
+![image](https://github.com/xDiggy/GymHub/assets/85561037/4e87cdb0-0c23-435b-a810-d9410787ba18)
 
 ## Home page:
 ![image](https://github.com/xDiggy/GymHub/assets/85561037/d4a9c0bd-82c2-4409-ad19-7f415f9ec8d8)
