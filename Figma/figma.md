@@ -10,7 +10,7 @@
 ## Profile page:
 ![image](https://github.com/xDiggy/GymHub/assets/85561037/fe9c8a6f-3436-4770-b8bc-a03b1ee46d82)
 ### Profile swipe:
-![image](https://github.com/xDiggy/GymHub/assets/85561037/5e43c821-ecfd-4be1-87dc-0c349a67fb63)
+![image](https://github.com/xDiggy/GymHub/assets/85561037/fbd01084-3787-4ad4-80dd-69e58b0f0e84)
 ### Profile view more:
 ![image](https://github.com/xDiggy/GymHub/assets/85561037/37bbcf80-0eee-42fa-b5ba-2dcc110def9d)
 ### Muscle selection:
