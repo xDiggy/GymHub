@@ -21,6 +21,8 @@
 ![image](https://github.com/xDiggy/GymHub/assets/85561037/ee3c9c02-894d-4682-ba38-6e6540345283)
 ### Other user view workouts:
 ![image](https://github.com/xDiggy/GymHub/assets/85561037/01cbf84f-3515-452e-8e94-dbf5718688f8)
+### Other user muscle selection:
+![image](https://github.com/xDiggy/GymHub/assets/85561037/e2c1b25b-413e-4932-9cf8-6c0a74aa910e)
 
 
 
