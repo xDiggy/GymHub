@@ -20,11 +20,9 @@
 ### Other user profile swipe:
 ![image](https://github.com/xDiggy/GymHub/assets/85561037/ee3c9c02-894d-4682-ba38-6e6540345283)
 ### Other user view workouts:
-![image](https://github.com/xDiggy/GymHub/assets/85561037/01cbf84f-3515-452e-8e94-dbf5718688f8)
+![image](https://github.com/xDiggy/GymHub/assets/85561037/7a45d90d-f10b-4164-89d3-f6493dafc724)
 ### Other user muscle selection:
-![image](https://github.com/xDiggy/GymHub/assets/85561037/e2c1b25b-413e-4932-9cf8-6c0a74aa910e)
-
-
+![image](https://github.com/xDiggy/GymHub/assets/85561037/15016d7e-1c64-4c1d-8e80-ac0f664c8b2a)
 
 ## Home page:
 ![image](https://github.com/xDiggy/GymHub/assets/85561037/d4a9c0bd-82c2-4409-ad19-7f415f9ec8d8)
