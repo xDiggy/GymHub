@@ -17,6 +17,9 @@
 ![image](https://github.com/xDiggy/GymHub/assets/85561037/dc1b7d15-2931-4c76-9163-e7e76d4e9353)
 ### Other user profile page:
 ![image](https://github.com/xDiggy/GymHub/assets/85561037/a38ca6bb-4869-42c6-afd0-d507a536e1e2)
+### Other user profile swipe:
+![image](https://github.com/xDiggy/GymHub/assets/85561037/ee3c9c02-894d-4682-ba38-6e6540345283)
+
 
 ## Home page:
 ![image](https://github.com/xDiggy/GymHub/assets/85561037/d4a9c0bd-82c2-4409-ad19-7f415f9ec8d8)
