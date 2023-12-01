@@ -28,4 +28,5 @@
 ![image](https://github.com/xDiggy/GymHub/assets/85561037/d4a9c0bd-82c2-4409-ad19-7f415f9ec8d8)
 
 ## Settings page:
-![image](https://github.com/xDiggy/GymHub/assets/85561037/dac3a5ad-7b53-4b0e-80b5-9ac111b13a89)
+![image](https://github.com/xDiggy/GymHub/assets/83132299/d3d82c40-bd90-4991-882f-f53262faad91)
+
