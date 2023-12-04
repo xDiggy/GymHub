@@ -30,3 +30,7 @@
 ## Settings page:
 ![image](https://github.com/xDiggy/GymHub/assets/83132299/d3d82c40-bd90-4991-882f-f53262faad91)
 
+## Change Password page:
+![image](https://github.com/xDiggy/GymHub/assets/83132299/2c66e090-3016-4131-b232-7cc18a8fe2bf)
+
+
