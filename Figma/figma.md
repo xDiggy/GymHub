@@ -33,5 +33,9 @@
 ## Change Password page:
 ![image](https://github.com/xDiggy/GymHub/assets/83132299/f93c1777-1af6-4fdf-8012-6ba95bad6c34)
 
+## Blocked Users page:
+![image](https://github.com/xDiggy/GymHub/assets/83132299/1616599f-53ea-462e-ac22-0b14e98185e4)
+
+
 
 
