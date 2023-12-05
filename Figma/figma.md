@@ -25,7 +25,19 @@
 ![image](https://github.com/xDiggy/GymHub/assets/85561037/15016d7e-1c64-4c1d-8e80-ac0f664c8b2a)
 
 ## Home page:
-![image](https://github.com/xDiggy/GymHub/assets/85561037/d4a9c0bd-82c2-4409-ad19-7f415f9ec8d8)
+![image](https://github.com/xDiggy/GymHub/assets/85561037/fb31cd0e-e078-414a-88dc-4f4fa23f09ca)
 
 ## Settings page:
-![image](https://github.com/xDiggy/GymHub/assets/85561037/dac3a5ad-7b53-4b0e-80b5-9ac111b13a89)
+![image](https://github.com/xDiggy/GymHub/assets/83132299/d3d82c40-bd90-4991-882f-f53262faad91)
+
+## Change Password page:
+![image](https://github.com/xDiggy/GymHub/assets/83132299/f93c1777-1af6-4fdf-8012-6ba95bad6c34)
+
+## Blocked Users page:
+![image](https://github.com/xDiggy/GymHub/assets/83132299/1616599f-53ea-462e-ac22-0b14e98185e4)
+
+## Muted Users Page:
+![image](https://github.com/xDiggy/GymHub/assets/83132299/a0fe654e-84d7-4b91-92bb-ca9bc6e142d1)
+
+
+
