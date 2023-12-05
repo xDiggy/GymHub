@@ -39,5 +39,8 @@
 ## Muted Users Page:
 ![image](https://github.com/xDiggy/GymHub/assets/83132299/a0fe654e-84d7-4b91-92bb-ca9bc6e142d1)
 
+## Accessibility Settings Page:
+![image](https://github.com/xDiggy/GymHub/assets/83132299/82458e0a-bde1-4178-a8b5-7ed8e2e19ef8)
+
 
 
