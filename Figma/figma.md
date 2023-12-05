@@ -25,7 +25,9 @@
 ![image](https://github.com/xDiggy/GymHub/assets/85561037/15016d7e-1c64-4c1d-8e80-ac0f664c8b2a)
 
 ## Home page:
-![image](https://github.com/xDiggy/GymHub/assets/85561037/fb31cd0e-e078-414a-88dc-4f4fa23f09ca)
+![image](https://github.com/xDiggy/GymHub/assets/85561037/98092045-55bc-4c49-b60d-eab1c3751346)
+### Home page liked:
+![image](https://github.com/xDiggy/GymHub/assets/85561037/a88ccd36-6e06-4e8d-98d3-a45ef5252cb8)
 
 ## Settings page:
 ![image](https://github.com/xDiggy/GymHub/assets/83132299/5b343158-ad7e-4596-bc09-49f4738fdbfa)
