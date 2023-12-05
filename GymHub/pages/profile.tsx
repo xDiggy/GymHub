@@ -1,8 +1,12 @@
 // Boilerplate social media profile page
 import React from 'react';
 import { View, Text, StyleSheet, Image } from 'react-native';
+import { workouts } from '../dummy/workouts';
 
 const Profile = () => {
+  const userID = 'a';  // Assuming there's a function to generate a unique user ID
+  const userWorkouts = workouts.filter(workout => workout.userID === userID);
+
   return (
     <View style={styles.container}>
       <Image
@@ -14,6 +18,15 @@ const Profile = () => {
       <View style={styles.stats}>
         <Text>Followers: 100</Text>
         <Text>Following: 50</Text>
+      </View>
+      <View style={styles.workouts}>
+        {userWorkouts.map((workout, index) => (
+          <View key={index}>
+            <Text>{workout.workoutName}</Text>
+            <Text>{workout.workoutWeight}</Text>
+            <Text>{workout.workoutReps}</Text>
+          </View>
+        ))}
       </View>
     </View>
   );
@@ -42,6 +55,9 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     justifyContent: 'space-around',
     width: '80%',
+  },
+  workouts: {
+    marginTop: 20,
   },
 });
 
