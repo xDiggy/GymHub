@@ -52,6 +52,10 @@
 ## Support Ticket Page
 ![image](https://github.com/xDiggy/GymHub/assets/83132299/b30da74e-c82a-4bd0-93b9-dc6d4068491b)
 
+## Bug Report Page
+![image](https://github.com/xDiggy/GymHub/assets/83132299/bf06e9a7-eeb0-4e40-b709-c64764e408a0)
+
+
 
 
 
