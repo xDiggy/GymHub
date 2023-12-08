@@ -1,3 +1,8 @@
+## Layout:
+<img width="492" alt="Screenshot 2023-12-08 at 4 56 24 PM" src="https://github.com/xDiggy/GymHub/assets/83132299/d8b1aceb-7671-472b-97b8-acf05de87220">
+
+
+
 ## Initial login page:
 ![image](https://github.com/xDiggy/GymHub/assets/85561037/32ea59d9-dee4-40a6-ac75-3557a8808884)
 
