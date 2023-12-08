@@ -58,6 +58,10 @@
 ## Advanced Settings Page:
 ![image](https://github.com/xDiggy/GymHub/assets/83132299/860fa8d7-9d6e-4c8b-8b7a-bb1de088fb48)
 
+## Beta Access Request Page:
+![image](https://github.com/xDiggy/GymHub/assets/83132299/d481ad60-3174-4fce-9801-974786ff290e)
+
+
 
 
 
