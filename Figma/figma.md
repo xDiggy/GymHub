@@ -28,6 +28,9 @@
 ![image](https://github.com/xDiggy/GymHub/assets/85561037/7a45d90d-f10b-4164-89d3-f6493dafc724)
 ### Other user muscle selection:
 ![image](https://github.com/xDiggy/GymHub/assets/85561037/15016d7e-1c64-4c1d-8e80-ac0f664c8b2a)
+### Profile view muscle selection alternate config
+![image](https://github.com/xDiggy/GymHub/assets/85561037/30e65b68-7c7e-4ccd-930b-1a68db4cd491)
+
 
 ## Home page:
 ![image](https://github.com/xDiggy/GymHub/assets/85561037/98092045-55bc-4c49-b60d-eab1c3751346)
