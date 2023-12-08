@@ -49,11 +49,15 @@
 ## Help Page:
 ![image](https://github.com/xDiggy/GymHub/assets/83132299/e7fcd2ce-8515-4b3e-97c8-95066bcd82b2)
 
-## Support Ticket Page
+## Support Ticket Page:
 ![image](https://github.com/xDiggy/GymHub/assets/83132299/b30da74e-c82a-4bd0-93b9-dc6d4068491b)
 
-## Bug Report Page
+## Bug Report Page:
 ![image](https://github.com/xDiggy/GymHub/assets/83132299/bf06e9a7-eeb0-4e40-b709-c64764e408a0)
+
+## Advanced Settings Page:
+![image](https://github.com/xDiggy/GymHub/assets/83132299/860fa8d7-9d6e-4c8b-8b7a-bb1de088fb48)
+
 
 
 
