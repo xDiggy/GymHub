@@ -30,7 +30,7 @@
 ![image](https://github.com/xDiggy/GymHub/assets/85561037/a88ccd36-6e06-4e8d-98d3-a45ef5252cb8)
 
 ## Settings page:
-![image](https://github.com/xDiggy/GymHub/assets/83132299/4f80982e-afe2-44f9-ad6f-418d10434c4b)
+![image](https://github.com/xDiggy/GymHub/assets/83132299/08fedceb-353a-4715-8889-86b0c21a29eb)
 
 
 
